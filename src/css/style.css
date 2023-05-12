@@ -1,0 +1,20 @@
+body{
+    font-family: 'Poppins' , sans-serif;
+    max-width: 1280;
+    margin: 0 auto;
+    background-color: #5e5e5e;
+    color: #333333;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+header .menu{
+    width: 10px;
+    height: 10px;
+    margin: 0;
+}
+main{
+    padding: 25px;
+}
