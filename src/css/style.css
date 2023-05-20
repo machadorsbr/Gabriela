@@ -58,7 +58,6 @@ color: hsl(300, 92%, 24%);
     font-size: 70px;
 }
 
-
 @media screen and (max-heigth: 450px){
     .overlay a {font-size: 20px;}
     .overlay, .closebtn{
